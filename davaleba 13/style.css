@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "inter";
+    src: url(./Inter/Inter-Medium.ttf);
+}@font-face {
+    font-family: "inter-italic";
+    src: url(./Inter/Inter-Italic.ttf);
+}
+.text-1{
+    color: #1E1E1E;
+    font-size: 24px;
+    font-family: "inter";
+}.text-2{
+    color: #1E1E1E;
+    font-size: 24px;
+    font-family: "inter";
+    font-size: 40px;
+    padding-left: 32px;
+    padding-top: 19px;
+}
+.text-3{
+    font-family: "inter";
+    font-size: 24px;
+    margin-top: 22px;
+    color: #1E1E1E;
+}
+.text-4{
+    font-family: "inter-italic";
+    font-size: 16px;
+}
+.text-5{
+    font-family: "inter";
+    font-size: 24px;
+    margin-top: 44px;
+}
+.text-6{ 
+    font-family: "inter-italic";
+    font-size: 16px;
+}
+.text-7{
+    font-family: "inter";
+    font-size: 24px;
+    margin-top: 44px;
+}
+.text-8{
+    font-family: "inter-italic";
+    font-size: 16px;
+}
